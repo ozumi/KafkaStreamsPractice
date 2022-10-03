@@ -1,0 +1,6 @@
+com/example/FilterProcessor.java
+ com.example.FilterProcessor
+com/example/StreamsFilter.java
+ com.example.StreamsFilter
+com/example/SimpleKafkaProcessor.java
+ com.example.SimpleKafkaProcessor
